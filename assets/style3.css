@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+.tentang .col-sm {
+	font-family: 'Secular One', sans-serif;
+	font-size: 48px;
+	text-align: center;
+} 
+.tentang p {
+	text-align: left;
+	font-size: 40px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.tentang h6 {
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 40px;
+}
+.tentang .gambar{
+	width: 203px;
+}
+.tentang .jadwal {
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 30px;
+}
+.footer {
+    background-color: #333;
+    padding:5px;
+}
+.footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 20px;
+}
